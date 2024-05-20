@@ -15,3 +15,11 @@ function movimenta NaveTeclado(tecla) {
     ctx.clearRect(col, lin, 2, 5); ctx.filIRect(col, lin-6, 2, 5);
     }
     setTimeout(function() { disparaTiro(col, lin-6) }, 1);
+    function colldlut) (
+        var largura = nave.width;
+        var altura = nave.height;
+        retum («Nave + largura) > xinimigo 6.6
+        XNave < (xInimigo + largura) 6.6
+        (yNave + altura) > yinimigo 66
+        yNave < (yinimigo + altura)
+         }
